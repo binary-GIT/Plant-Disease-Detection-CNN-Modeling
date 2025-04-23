@@ -25,6 +25,13 @@ Testing
 
 The model was tested on total 17572 images of 38 classes.
 The model used for prediction on sample images. It can be seen below:
-![image](https://github.com/user-attachments/assets/c7b28a44-5779-4391-9096-3d416cd02bec)
+
+![image](https://github.com/user-attachments/assets/c080fe01-2b98-4bf9-b682-df49d91072b9)
+![image](https://github.com/user-attachments/assets/08833953-387f-4fa2-bc06-6e98cbed46fc)
+
+
+
+
+
 
 
